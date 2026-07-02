@@ -6,5 +6,6 @@
     "sorta",
     "mr teddy",
     "Chaos",
-    "Bruglar"     
+    "Bruglar",
+    "Lycaen"
 ]}
